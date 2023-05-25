@@ -1,4 +1,4 @@
-<?php     require_once '/functions/connect.php'; 
+<?php     require_once 'functions/connect.php';
 
 if(isset($_POST['submit'])){
 mysqli_query($connection, 
